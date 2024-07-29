@@ -1,0 +1,11 @@
+psycopg2
+redis
+pymongo
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+torch
+numpy
+pandas
+datasets
